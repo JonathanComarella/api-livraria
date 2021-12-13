@@ -11,4 +11,4 @@
 # Tecnologias que estão sendo usadas:
 - Java JDK 17
 - Spring
-- H2 data base
+- H2 database
