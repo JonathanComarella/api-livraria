@@ -1,6 +1,6 @@
 # api-livraria
 
-## API Em desenvolvimento
+## API Em desenvolvimento (Pausada) Retornarei em Breve
 
 # No final com esta API será possível:
 - consultar algum livro específico
